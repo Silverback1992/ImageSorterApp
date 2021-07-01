@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "oOfvx4d9kY/GrVf5HcrhoORB+OJkoiTU/a1p/tCzF+5KPvpIpggMw7uNMYaTarvSGpV7hcMtUmkAxxCPUfmygw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alin2\\source\\repos\\ImageSorterApp\\ImageSorter\\ImageSorter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alin2\\.nuget\\packages\\ookii.dialogs.wpf\\3.1.0\\ookii.dialogs.wpf.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
